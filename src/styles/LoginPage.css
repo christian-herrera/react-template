@@ -1,0 +1,19 @@
+.login-card {
+	display: grid;
+	gap: 1rem;
+}
+
+.login-card__header {
+	display: grid;
+	gap: 0.35rem;
+}
+
+.login-card__form {
+	display: grid;
+	gap: 1rem;
+}
+
+.login-card__actions {
+	display: flex;
+	justify-content: flex-end;
+}

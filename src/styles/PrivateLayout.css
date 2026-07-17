@@ -1,0 +1,8 @@
+.private-shell .layout-nav {
+	border-color: rgba(18, 145, 103, 0.18);
+}
+
+.private-shell .layout-badge {
+	background: rgba(18, 145, 103, 0.12);
+	color: #0f7a57;
+}
